@@ -1,2 +1,1 @@
-# Translato
-r
+# Translator
